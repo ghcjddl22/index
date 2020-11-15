@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+@media all and (max-width:414px) {
+    .content{width:100%;height:100%;}
+    .content .lists{width:100%;height:100%;}
+    .content .lists .list li{width:100%;height:100%;margin-top:10%;}
+    .lists .list .img_num span{position:absolute;background-color:#000;width:174vh;margin-top:3%}
+    
+    .list .img_num .portfo img{width:85%}
+    
+    .lists .list .text2{position:absolute;top:83.5%;width:85%;height:65.3vh;left:0%}
+    .lists .list .text2 h3{margin-top:35%}
+}
+
